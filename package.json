@@ -1,0 +1,35 @@
+{
+  "name": "pure-themes",
+  "displayName": "Pure Themes",
+  "description": "A minimalist theme available in dark and light",
+  "version": "0.1.1",
+  "publisher": "me7uiz",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meluiz/pure-themes.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "galleryBanner": {
+    "color": "#09090b",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pure Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pure-dark.json"
+      },
+      {
+        "label": "Pure Light",
+        "uiTheme": "vs",
+        "path": "./themes/pure-light.json"
+      }
+    ]
+  }
+}
