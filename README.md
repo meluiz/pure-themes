@@ -1,5 +1,12 @@
-# Pure Themes
-A minimalist theme available in dark and light
+<center>
+  <img src="https://raw.githubusercontent.com/meluiz/pure-themes/main/icon.png" width="140" />
+
+  # Pure Themes
+  A minimalist theme available in dark and light
+
+  [![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/me7uiz.pure-themes)
+</center>
+
 
 ## Installation
 
