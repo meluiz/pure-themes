@@ -16,7 +16,7 @@
 
 Alternatively install via CLI:
 ```
-code --install-extension meluiz.pure-theme
+code --install-extension meluiz.pure-themes
 ```
 
 ## License
