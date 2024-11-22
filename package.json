@@ -2,7 +2,7 @@
   "name": "pure-themes",
   "displayName": "Pure Themes",
   "description": "A minimalist theme available in dark and light",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "publisher": "me7uiz",
   "icon": "icon.png",
   "engines": {
